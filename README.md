@@ -1,4 +1,4 @@
-=== Always Email Shipping Address For WooCommerce ===
+=== Always Email Shipping Address ===
 Contributors: ethanpil
 Tags: wocoomerce, shipping, email
 Requires at least: 4.7
@@ -8,7 +8,7 @@ Requires PHP: 5.3
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Default behavior of Woocommerce is never to show a shipping adress in email notifications if the shipping cost is zero. This wont work when free delivery options are based on the local pickup method. Activating this plugin ensures that shipping addresses are always included in email notifications from WooCommerce.
+Default behavior of WooCommerce is never to show a shipping adress in email notifications if the shipping cost is zero. This wont work when free delivery options are based on the local pickup method. Activating this plugin ensures that shipping addresses are always included in email notifications from WooCommerce.
 
 == Description ==
 
