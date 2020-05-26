@@ -1,5 +1,4 @@
 === Always Email Shipping Address ===
-
 Contributors: ethanpil
 Tags: wocoomerce, shipping, email
 Requires at least: 4.7
